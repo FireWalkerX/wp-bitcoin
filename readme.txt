@@ -1,4 +1,4 @@
-=== WP Bitcoin ===
+=== WordPress Bitcoin ===
 Contributors: Tips and Tricks HQ
 Donate link: http://www.tipsandtricks-hq.com/development-center
 Tags: bitcoin, bitpay, payment gateway, cart, checkout, e-commerce, online store, sell, accept bitcoin, bitcoin store
