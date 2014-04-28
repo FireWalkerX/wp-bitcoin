@@ -3,7 +3,7 @@
  * Plugin Name: WP Bitcoin
  * Plugin URI: http://www.tipsandtricks-hq.com/wordpress-bitcoin-payment-plugin
  * Description: Accept bitcoin payments via bitpay from your WordPress site
- * Version: 1.0
+ * Version: 1.1
  * Author: Tips and Tricks HQ
  * Author URI: http://www.tipsandtricks-hq.com/
  * Requires at least: 3.0
@@ -14,7 +14,7 @@ if (!defined('ABSPATH')) exit;
 if (!class_exists('WP_Bitcoin')){
 
     class WP_Bitcoin{
-        var $version = '1.0';
+        var $version = '1.1';
         var $db_version = '1.0';
         var $plugin_url;
         var $plugin_path;

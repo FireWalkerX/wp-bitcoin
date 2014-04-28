@@ -80,6 +80,11 @@ function wp_bitcoin_display_general_settings_menu()
      
     </form>
     </div></div>
+
+    <div style="background: none repeat scroll 0 0 #FFF6D5;border: 1px solid #D1B655;color: #3F2502;margin: 10px 0;padding: 5px 5px 5px 10px;text-shadow: 1px 1px #FFFFFF;">	
+    <p>If you need a feature rich plugin to sell your digital and physical products using bitcoin then checkout our <a target="_blank" href="http://www.tipsandtricks-hq.com/wordpress-estore-plugin-complete-solution-to-sell-digital-products-from-your-wordpress-blog-securely-1059/?utm_source=wp_bitcoin&utm_medium=dashboard&utm_campaign=slogan">WP eStore Plugin</a>
+    </p>
+    </div>
 	
 <?php
 }

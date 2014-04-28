@@ -1,24 +1,26 @@
 === WordPress Bitcoin ===
 Contributors: Tips and Tricks HQ
 Donate link: http://www.tipsandtricks-hq.com/development-center
-Tags: bitcoin, bitpay, payment gateway, cart, checkout, e-commerce, online store, sell, accept bitcoin, bitcoin store
+Tags: bitcoin, payment, bitpay, shortcode, payment gateway, cart, checkout, e-commerce, online store, sell, accept bitcoin, bitcoin store
 Requires at least: 3.0
-Tested up to: 3.8
-Stable tag: 1.0
+Tested up to: 3.9
+Stable tag: 1.1
 License: GPLv2 or later
 
-Easily accept Bitcoin payments into your wallet via bitpay payment gateway. Quick onsite checkout functionality.
+Easily accept Bitcoin payments into your wallet via bitpay payment gateway. Quick on-site checkout functionality.
 
 == Description ==
 
-This plugin enables bitpay payment gateway functionality on your WordPress site to accept bitcoin payments for your digital or physical products.
+This plugin enables bitpay payment gateway functionality on your WordPress site to accept bitcoin payments for your products or services.
 
 = Features = 
 
 * Accept payments in bitcoins from any country in 150+ currencies
 * Automatically convert your store currency to bitcoin via flexible exchange rate and with no hidden fees
-* Track bitcoin orders from your WordPress dashboard
+* The plugin comes with a full bitcoin checkout process (your customers will be able to click a button to pay for your items using bitcoin)
+* Track bitcoin orders from your WordPress dashboard (the order dashboard menu will show you all the bitcoin transactions from your site)
 * Automatically send confirmation email to your user when a payment is accepted on the bitcoin network
+* Accept payments in bitcoins directly into your wallet.
 
 = Settings Configuration =
 
@@ -59,6 +61,9 @@ Yes
 = Can I accept Bitcoin payments using this plugin? =
 Yes
 
+= Can I sell products using bitcoin with this plugin? =
+Yes
+
 == Screenshots ==
 
 None
@@ -68,6 +73,9 @@ None
 None
 
 == Changelog ==
+
+= 1.1 =
+* WordPress 3.9 compatibility
 
 = 1.0 = 
 * First commit
