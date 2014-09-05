@@ -3,7 +3,7 @@ Contributors: Tips and Tricks HQ
 Donate link: http://www.tipsandtricks-hq.com/development-center
 Tags: bitcoin, payment, bitpay, shortcode, payment gateway, cart, checkout, e-commerce, online store, sell, accept bitcoin, bitcoin store
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.1
 License: GPLv2 or later
 
